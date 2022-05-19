@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdbool.h>
-//:)
 FILE*naghshe;
 FILE*shomarekhane;
 FILE*energykhaneha;
@@ -3361,3 +3360,11 @@ int main() {
     }
 }
 //payan main
+
+
+
+
+
+
+
+
